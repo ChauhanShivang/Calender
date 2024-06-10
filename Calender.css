@@ -68,7 +68,7 @@ html{
     align-items: center;
 }
 
-.days div:hover{
+.days div:not(.today):hover{
     background-color: rgb(28, 29, 58);
     border-radius: 20%;
     border-color: #fff;
