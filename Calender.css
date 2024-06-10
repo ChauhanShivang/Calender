@@ -69,7 +69,10 @@ html{
 }
 
 .days div:hover{
-    background-color: rgb(39, 165, 87);
+    background-color: rgb(28, 29, 58);
+    border-radius: 20%;
+    border-color: #fff;
+    border-style: solid;
     cursor: pointer;
 }
 
